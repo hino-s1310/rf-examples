@@ -1,0 +1,2 @@
+# rf-examples
+Robot Frameworkのサンプルスクリプト
